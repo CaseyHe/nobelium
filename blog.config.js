@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Casey He',
   email: 'caseyhyp@gmail.com',
   link: 'caseytalk.tech',
-  description: 'Everything on my mind.',
+  description: 'Things on my mind.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
